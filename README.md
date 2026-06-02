@@ -30,6 +30,8 @@ Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 * Organização de menus interativos.
 * Lógica para operações CRUD (Create, Read e Delete).
 
+  ![imagem.cadastro](https://github.com/GustavoMoraes-DEV/Cadastro/blob/main/Cadastro.png)
+
 ## 🛠️ Tecnologias Utilizadas
 
 * Python
